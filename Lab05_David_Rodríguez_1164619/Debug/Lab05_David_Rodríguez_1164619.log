@@ -1,0 +1,9 @@
+﻿  LB5.cpp
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\LB5.h(511,21): warning C4101: 'e': variable local sin referencia
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\LB5.h(574,21): warning C4101: 'e': variable local sin referencia
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\LB5.h(649,20): warning C4101: 'e': variable local sin referencia
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\LB5.h(688,20): warning C4101: 'e': variable local sin referencia
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\LB5.h(723,20): warning C4101: 'e': variable local sin referencia
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\LB5.cpp(9,15): warning C4551: la llamada a la función no tiene lista de argumentos
+  LB5.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab05_David_Rodríguez_1164619.vcxproj -> C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\Debug\Lab05_David_Rodríguez_1164619.exe

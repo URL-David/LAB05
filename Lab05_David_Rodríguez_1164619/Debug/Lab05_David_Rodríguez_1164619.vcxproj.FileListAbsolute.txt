@@ -1,0 +1,5 @@
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\Debug\Lab05_David_Rodríguez_1164619.vcxprojAssemblyReference.cache
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\Debug\Lab05DavidRodríguez1164619.LB5.resources
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\Debug\Lab05_David_Rodríguez_1164619.vcxproj.GenerateResource.cache
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\Debug\Lab05_David_Rodríguez_1164619.exe
+C:\Users\darcz\source\repos\Lab05_David_Rodríguez_1164619\Debug\Lab05_David_Rodríguez_1164619.pdb
